@@ -16,7 +16,7 @@ def task1():
 
 def task2():
     # Your task logic goes here
-    print("Executing Task 2")
+    print("Executing Task 2: This is a new task")
 
 def task3():
     # Your task logic goes here
